@@ -1,0 +1,13 @@
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.exe.config
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.exe
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.pdb
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Aluno.resources
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Form1.resources
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Professor.resources
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Properties.Resources.resources
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.GenerateResource.cache
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.exe
+C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.pdb

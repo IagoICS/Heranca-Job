@@ -52,18 +52,21 @@
     <Compile Include="Aluno.Designer.cs">
       <DependentUpon>Aluno.cs</DependentUpon>
     </Compile>
+    <Compile Include="Aluno2.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pessoa.cs" />
     <Compile Include="Professor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Professor.Designer.cs">
       <DependentUpon>Professor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Professor2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Aluno.resx">

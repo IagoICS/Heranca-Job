@@ -57,12 +57,16 @@ namespace Trabalho_heranca
 
         private void btnexibir_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show(professor.ImprimeDados);
         }
 
         private void btncadprof_Click(object sender, EventArgs e)
         {
-
+            professor = new Professor2(txtnome.Text, (Convert.ToInt32(txtidade.Text)), txttilulacao.Text);
+          txtnome.Clear();
+            txtidade.Clear();
+            txttilulacao.Clear();
         }
+        
     }
 }

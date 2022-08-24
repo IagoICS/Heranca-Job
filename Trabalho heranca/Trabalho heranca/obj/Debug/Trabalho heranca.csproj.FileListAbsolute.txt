@@ -11,3 +11,16 @@ C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\o
 C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.CoreCompileInputs.cache
 C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.exe
 C:\Users\2jdmtec\Desktop\2 - JD\POO\Trabalho\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.pdb
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.exe.config
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.exe
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\bin\Debug\Trabalho heranca.pdb
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.AssemblyReference.cache
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.SuggestedBindingRedirects.cache
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Aluno.resources
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Form1.resources
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Professor.resources
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho_heranca.Properties.Resources.resources
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.GenerateResource.cache
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.csproj.CoreCompileInputs.cache
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.exe
+T:\2 JOGOS MTEC\IAGO CARVALHO SANTANA\POO\Heranca-Job-main\Trabalho heranca\Trabalho heranca\obj\Debug\Trabalho heranca.pdb
